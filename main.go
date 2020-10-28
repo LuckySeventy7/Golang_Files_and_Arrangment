@@ -41,7 +41,7 @@ func main(){
 	var s []string
 	var n int
 	var cadena string
-	fmt.Printf("Ingrese n:")
+	fmt.Printf("Ingrese n: ")
 	fmt.Scan(&n)
 	for i:=0; i < n; i++{
 		fmt.Scan(&cadena)
